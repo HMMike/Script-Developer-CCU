@@ -10,9 +10,14 @@ Noch im Beta Status
 Black im November 2018
 ---------------------------------
 Changelog V3.03
+
 Listendarstellung Sortieralgorithmus geändert
+
 Kleine programminkonsistenzen beseitigt.
+
 Feld Objecttyp in Listendarstellugn hinzu
+
 Schreibfehle rbei $src$ beseitigt.
+
 ObjectSelektion hinzugefügt
 
