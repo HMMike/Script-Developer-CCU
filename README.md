@@ -1,6 +1,5 @@
 # Script-Develover-CCU
 
-![alt text](https://raw.githubusercontent.com/HMMike/Script-Develover-CCU/blob/master/PICS/Editor1.jpg)
 
 Write and tests Scripts from Windows PC, Editor with Syntax Highlighting and Completition
 
