@@ -1,13 +1,40 @@
 # Script-Develover-CCU
 
 
-Write and tests Scripts from Windows PC, Editor with Syntax Highlighting and Completition
+Features:
+----------
+Editor mit SyntaxHighlight und Vervollständiger.
 
-Windows programm um Scripte auf der Homematik CCU / Raspberrymatik zu schreiben und diese zu testen
+Editor mit Undo / redo - Find - Replace
 
-Als erweiterte Möglichkeit Objectinspecktor, um sich durch den Aufbau der regaDom zu hangeln
+Scripte auf PC abspeichern und laden
 
-Noch im Beta Status
+Script ausführen
+
+Ansicht der Ausgaben via WriteLine
+
+Ansicht der verwendeten Scriptvariablen
+
+Ansicht des Syslogs
+
+Objectinspektor
+---------------
+DomScan nach Typen über die Rega
+
+Listen nach Enums
+
+Detailansichten der verschiedenen Objecttypen
+
+Konsistenstests
+
+Direktes Ändern von Daten
+
+Löschen von Daten
+
+Komplexe anwenderdefinierte Filtermöglichkeiten
+
+
+Noch im Beta Status aber wird kontinuierlich erweitert
 
 Black im November 2018
 
