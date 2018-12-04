@@ -38,6 +38,21 @@ Noch im Beta Status aber wird kontinuierlich erweitert
 
 Black im November 2018
 
+
+
+Coming soon (geplant in 3.05)
+-----------------------------
+Backup von Räumen (inkl Kanalverknüpfungen und deren Wiederherstellung) {fertig, im @ Test,RC}
+
+Backup von Gewerken (inkl Kanalverknüpfungen und deren Wiederherstellung) {fertig, im @ Test,RC}
+
+Backup von Device/KanalNamen (Rückumbenennung nach Umzug, Geräte werden nur benannt, nicht neu angelegt) {fertig, im @ Test}
+
+Backup von Favoriten (inkl Kanalverknüpfungen und deren Wiederherstellung) {fertig, im @ Test,RC}
+
+DatenTyp AlarmDP {entsteht noch}
+
+
 ---------------------------------
 Changelog 3.04:
 ---------------------------------
