@@ -40,17 +40,21 @@ Black im November 2018
 
 
 
-Coming soon (geplant in 3.05)
+Changelog 3.04
 -----------------------------
-Backup von Räumen (inkl Kanalverknüpfungen und deren Wiederherstellung) {fertig, im @ Test,RC}
+Einige Programmfehler beseitigt.
 
-Backup von Gewerken (inkl Kanalverknüpfungen und deren Wiederherstellung) {fertig, im @ Test,RC}
+Endlich die Codierung zwischen LZL und dem WebServer richtig in Griff bekommen
 
-Backup von Device/KanalNamen (Rückumbenennung nach Umzug, Geräte werden nur benannt, nicht neu angelegt) {fertig, im @ Test}
+Device Objekt in Auswahl hinzu und Detailansicht 
 
-Backup von Favoriten (inkl Kanalverknüpfungen und deren Wiederherstellung) {fertig, im @ Test,RC}
+Systemvariablen Objekt vervollständigt
 
-DatenTyp AlarmDP {entsteht noch}
+Alarm Objekt angelegt und vervollständigt
+
+Metadaten Aufschlüsselung
+
+Backup Methoden für Räume, Gewerke und Systemvariablen
 
 
 ---------------------------------
