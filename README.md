@@ -41,7 +41,7 @@ Black im November 2018
 
 
 ---------------------------------
-Changelog 3.04
+Changelog 3.05
 -----------------------------
 Einige Programmfehler beseitigt.
 
