@@ -17,6 +17,7 @@ Ansicht der verwendeten Scriptvariablen
 
 Ansicht des Syslogs
 
+
 Objectinspektor
 ---------------
 DomScan nach Typen über die Rega
@@ -39,7 +40,7 @@ Noch im Beta Status aber wird kontinuierlich erweitert
 Black im November 2018
 
 
-
+---------------------------------
 Changelog 3.04
 -----------------------------
 Einige Programmfehler beseitigt.
@@ -82,7 +83,7 @@ Einige interne Änderungen, um die nächsten Steps der Roadmap effiktiver zu erm
 
 ----------------------------------
 Changelog V3.03
-
+---------------------------------
 Listendarstellung Sortieralgorithmus geändert
 
 Kleine programminkonsistenzen beseitigt.
