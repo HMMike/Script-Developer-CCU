@@ -39,6 +39,17 @@ Noch im Beta Status aber wird kontinuierlich erweitert
 
 Black im November 2018
 
+---------------------------------
+Changelog 3.05.04
+-----------------------------
+Hotfixes eingearbeitet
+
+Einige Programmungenauigkeiten beseitigt
+
+Threats eingeführt für http clients
+
+definierbare Views eingeführt für erstmal devices und channels
+
 
 ---------------------------------
 Changelog 3.05
