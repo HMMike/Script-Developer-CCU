@@ -40,6 +40,29 @@ Noch im Beta Status aber wird kontinuierlich erweitert
 Black im November 2018
 
 ---------------------------------
+Changelog 3.05.06
+-----------------------------
+
+Multithreading eingeführt für CCU Zugriff, Ping, etc (sollte keine Hänger mehr geben)
+
+TSynHighlighterClass umgeschrieben, im Gegensatz zur originalen Version arbeitet meine nun CaseSensive wie auch die CCU
+
+Weitere Methoden eingefügt in Highlighter, Autocomplete und Detailansicht.
+
+Detailansicht für Datenpunkte, Alarme, Systemvariablen, Devices und Channels komplettiert
+
+Auf Sonderwunsch unseres Stammtischs Programme schon mal provisorisch mit ProgramCopyID Test eingefügt
+
+Ein paar Standartfilter geschrieben und der Version im Rar beigefügt (*flt Dateien)
+
+Umbenennen von DeviceKanälen nach dem Namen des übergeordneten Devices
+
+Backup und Restore von Devicekanälen
+
+Temporäre Lizenzen nun möglich
+
+
+---------------------------------
 Changelog 3.05.04
 -----------------------------
 Hotfixes eingearbeitet
