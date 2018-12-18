@@ -40,6 +40,26 @@ Noch im Beta Status aber wird kontinuierlich erweitert
 Black im November 2018
 
 ---------------------------------
+Changelog 3.06.01
+-----------------------------
+
+BugFix Backup Sysvars (Alarme kann halt der Status nicht herstellt werden und 950er kann nicht rekontruiert werden. Dafür Sonderfunktionen
+
+Bugfix Highlighter (in HM Script ist // kein kommentar)
+
+Paramset Master Aufschlüsselung (ab Level 6)
+
+Editor Zusatzfunktionen um Werte aus der Detailsicht in ein Script zu kopieren
+
+DiagnoseBild
+
+Restaurieren einer kaputten oder fehlenden 950er Präsenzvariable (ab Level 7)
+
+Anzeigen aller Systemkonstanten
+
+Rega Event Push auf DPs (ab level 7)
+
+---------------------------------
 Changelog 3.05.06
 -----------------------------
 
