@@ -43,6 +43,26 @@ Black im November 2018
 Changelog 3.06.01
 -----------------------------
 
+2 Bugfix aufgrund Rega Fehlern (DoubleQuotes und wissenschaftliche Notation)
+
+TSynHighlighterClass angepasst: 2. KontantenTable eingeführt
+
+Undo Stack eingeführt für den Inspektor, damit ist jetzt quasi Browsing durch die Rekursionsebenen 
+
+Wegen Undo Stack Sicherheitsabfrage Rekursives Auflösen entfernt (geht ja nun via Undo wieder zurück)
+
+Programme lösen nun Ihre Rules und Subrules auf (retriggern veränderbar)
+
+Bei einem Script als SingleDestination ist dieses Script direkt in den Editor ladbar, dort veränderbar und auch wieder ins CCU Programm hochladbar.
+
+Verzögert um dieses Scripts veränderbar aus dem SDV heraus
+
+Diverse weitere Methoden und Konstanten hinzugefügt
+
+---------------------------------
+Changelog 3.06.01
+-----------------------------
+
 BugFix Backup Sysvars (Alarme kann halt der Status nicht herstellt werden und 950er kann nicht rekontruiert werden. Dafür Sonderfunktionen
 
 Bugfix Highlighter (in HM Script ist // kein kommentar)
