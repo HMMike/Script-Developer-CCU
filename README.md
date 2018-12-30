@@ -40,7 +40,20 @@ Noch im Beta Status aber wird kontinuierlich erweitert
 Black im November 2018
 
 ---------------------------------
-Changelog 3.06.01
+Changelog 3.06.06
+-----------------------------
+
+Ab dieser Version Unterstützt der SDV die Neuen Eigenschaften der Raspberrymatik / CCU3: SSL Verbindungen und Authentifizierung über Nutzername-Password. Dazu mehr in einem separaten Kapitel
+
+Verbessung des Undo Stacks im Inspektor
+
+Kleinere interne Fixes und Veränderungen als Vorgriff auf die Kommenden Versionen
+
+Bugfix bei Einstellungsspeichern, welcher dazu führte, das bei jedemneuen Speichern der Eintrag DPEnumUsagePrograms [R]=XXXX erneut geschrieben wurde.Da hatte sich ein Space ans EndederDefinition Table geschmuggelt. Bitte mal in dei SDV.INI schauen und falls nötig, die überschüssigen Einträge löschen
+
+
+---------------------------------
+Changelog 3.06.04
 -----------------------------
 
 2 Bugfix aufgrund Rega Fehlern (DoubleQuotes und wissenschaftliche Notation)
