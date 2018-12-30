@@ -49,7 +49,7 @@ Verbessung des Undo Stacks im Inspektor
 
 Kleinere interne Fixes und Veränderungen als Vorgriff auf die Kommenden Versionen
 
-Bugfix bei Einstellungsspeichern, welcher dazu führte, das bei jedemneuen Speichern der Eintrag DPEnumUsagePrograms [R]=XXXX erneut geschrieben wurde.Da hatte sich ein Space ans EndederDefinition Table geschmuggelt. Bitte mal in dei SDV.INI schauen und falls nötig, die überschüssigen Einträge löschen
+Bugfix bei Einstellungsspeichern, welcher dazu führte, das bei jedem neuen Speichern der Eintrag DPEnumUsagePrograms [R]=XXXX erneut geschrieben wurde.Da hatte sich ein Space ans Ende der Definition Table geschmuggelt. Bitte mal in die SDV.INI schauen und falls nötig, die überschüssigen Einträge löschen
 
 
 ---------------------------------
