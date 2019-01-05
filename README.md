@@ -3,9 +3,7 @@
 
 Features:
 ----------
-Editor mit SyntaxHighlight und Vervollständiger.
-
-Editor mit Undo / redo - Find - Replace
+Editor mit SyntaxHighlight und vervollständiger.
 
 Scripte auf PC abspeichern und laden
 
@@ -16,6 +14,8 @@ Ansicht der Ausgaben via WriteLine
 Ansicht der verwendeten Scriptvariablen
 
 Ansicht des Syslogs
+
+Mit der Version 3.07.01 kennt der HighLighter und der Vervollständiger 592 Methoden und Konstanten
 
 
 Objectinspektor
@@ -34,10 +34,54 @@ Löschen von Daten
 
 Komplexe anwenderdefinierte Filtermöglichkeiten
 
+Anwenderdefinierbare Methodensichten
+
+Bearbeiten von Programmen
+
+Übernahme von Scripten aus Programmen in Editor, Verändern und wider zurückladen in das Programm
+
+Undo Stack fürRekursionsaufrufe,damit Browsing durch Ebenen möglich
+
+Komplettes Zerlegen von Programmen in Rules, Conditions, SingleConditions, Destinations und SingleDestinations
+
+
+Backup Restore
+---------------
+Backups (von Räumen, Gewerken, etc für Systemumzug)
+
+Backups von Systemvariablen
+
+Backups von Geräte/ Kanalnamen
+
+Backups von Programmen (Milestone, coming in next versions)
+
 
 Noch im Beta Status aber wird kontinuierlich erweitert
 
-Black im November 2018
+Black im Januar 2019
+
+---------------------------------
+Changelog 3.07.01
+-----------------------------
+
+Einige kleine Bugfixes
+
+Vervollständigen von Zeitmodulen (CalendarDP)
+
+Aufschlüssen von Programmen in Rules, Subrules, Condition, SingleCondition, Destination und Singledestinations
+
+Detailansichten von Conditionsm Single Conditions, Destination und Singledestinations inkl rekursiver Auflösung
+
+Erweitern der Methoden im Highlighter
+
+Klartextübersetzung der Regakonstanten in der Detailansicht
+
+Verfeinern des Undo Stacks (Browsing durch Programme)
+
+Hinzufügen von Methoden beim User Object (Level 7)
+
+Eine interne Änderungen zur Vorbereitung von Backup / Restore von Programmen
+
 
 ---------------------------------
 Changelog 3.06.06
