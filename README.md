@@ -17,6 +17,10 @@ Ansicht des Syslogs
 
 Mit der Version 3.07.01 kennt der HighLighter und der Vervollständiger 592 Methoden und Konstanten
 
+Markup im Editor 
+
+Suchen von Systemvariablen, Geräten, Channels, Räumen und Gewerken in Scripten
+
 
 Objectinspektor
 ---------------
@@ -59,6 +63,26 @@ Backups von Programmen (Milestone, coming in next versions)
 Noch im Beta Status aber wird kontinuierlich erweitert
 
 Black im Januar 2019
+
+
+---------------------------------
+Changelog 3.07.02
+-----------------------------
+
+Bugfix (Bei aufgelösten Programmen funktionierte das Rückschreiben des Scriptes in das Programm nicht)
+
+BugFix Beim Ändern von Strings in der Detailansicht wurde der Ursprungswert nicht als Vorschlag genommen
+
+Umstellen der Dialoge auf TTaskDialog und Rauswerfen der Unit Windows, damit ist die Tür in Richtung Linus wieder spaltbreit auf
+
+Class TSynEditMarkupHighlightAllCaret  ein wenig modifiziert, damit gehen nun Markups,
+
+Setup für MarkUps und Anwählbar / Abwählbar
+
+Suchen innerhalb von Scripten nach Namen von Systemvariablen, Geräten, Kanäle, Räumen und Gewerken
+
+Reihenfolge von Singledestinations sind nun verschiebbar
+
 
 ---------------------------------
 Changelog 3.07.01
