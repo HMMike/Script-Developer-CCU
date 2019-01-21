@@ -19,7 +19,11 @@ Mit der Version 3.07.01 kennt der HighLighter und der Vervollständiger 592 Meth
 
 Markup im Editor 
 
-Suchen von Systemvariablen, Geräten, Channels, Räumen und Gewerken in Scripten
+Suchen von Systemvariablen, Geräten, Channels, Räumen und Gewerken in Scripten nach Namen
+
+Suchen von Channels und Devices nach Seriennummern in Scripten
+
+Programme Testen Option (Systaxcheck)
 
 
 Objectinspektor
@@ -63,6 +67,19 @@ Backups von Programmen (Milestone, coming in next versions)
 Noch im Beta Status aber wird kontinuierlich erweitert
 
 Black im Januar 2019
+
+
+---------------------------------
+Changelog 3.07.04
+-----------------------------
+
+Auflösung geändert und ein wenig das Design
+
+Programm Testen hinzugefügt
+
+Suchen in Scripten nach Seriennummern von Devices / Kanälen
+
+Ein paar weiterer Methoden eingepflegt
 
 
 ---------------------------------
