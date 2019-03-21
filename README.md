@@ -15,7 +15,7 @@ Ansicht der verwendeten Scriptvariablen
 
 Ansicht des Syslogs
 
-Mit der Version 3.07.01 kennt der HighLighter und der Vervollständiger 592 Methoden und Konstanten
+Mit der Version 3.07.qq kennt der HighLighter und der Vervollständiger 620 Methoden und Konstanten
 
 Markup im Editor 
 
@@ -52,6 +52,8 @@ Undo Stack fürRekursionsaufrufe,damit Browsing durch Ebenen möglich
 
 Komplettes Zerlegen von Programmen in Rules, Conditions, SingleConditions, Destinations und SingleDestinations
 
+Suchen in Scripten (Namen oder freier Text, auch regular expressions
+
 
 Backup Restore
 ---------------
@@ -66,7 +68,47 @@ Backups von Programmen (Milestone, coming in next versions)
 
 Noch im Beta Status aber wird kontinuierlich erweitert
 
-Black im Januar 2019
+Black im März 2019
+
+---------------------------------
+Changelog 3.07.11
+-----------------------------
+
+Tab Scriptausgabe entfernt, dafür sitzt die Scriptausgabe nun in einem Fenster unter dem Editor (Grösse anpassbar)
+
+Neue Keys eingeführt, um Script Run und Script Test auch über FKeys zu starten
+
+Mit dieser Version kennt der SDV 620 Rega-Methoden und Konstanten
+
+Methodenhilfe eingeführt
+
+---------------------------------
+Changelog 3.07.10
+-----------------------------
+
+Properties von Zeitmodulen und Singledestination / Singleconditions über Dropboxes änderbar
+
+Systemvariablen Metadaten Check und Reparatur eingeführt
+
+Systemvariablen NirvanaChannel Check und Reparatur eingeführt
+
+---------------------------------
+Changelog 3.07.07
+-----------------------------
+
+Ein Paar Methoden hinzugefügt
+
+Reiter Scriptsuche fertiggestellt (ab level 6)
+
+Damit nun möglich: Volltextsuche in allen Scripten
+
+Selektiertbar, auch suchen in GeisterDestinations möglich
+
+Suchen auch als Regular Expression möglich
+
+Beschleunigte Suche in Ram möglich
+
+ProgrammObjektanalyse
 
 
 ---------------------------------
