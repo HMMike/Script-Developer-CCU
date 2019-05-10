@@ -63,12 +63,48 @@ Backups von Systemvariablen
 
 Backups von Geräte/ Kanalnamen
 
-Backups von Programmen (Milestone, coming in next versions)
+Backups von Programmen 
 
 
 Noch im Beta Status aber wird kontinuierlich erweitert
 
-Black im März 2019
+Black im Mai 2019
+
+
+---------------------------------
+Changelog 3.08.04
+-----------------------------
+
+- ein paar weitere Methoden hinzugefügt (auch die neuen der aktuellen RMMatik)
+
+- Backup Restore Funktionalität nun auch für Programme (Einzelne oder mehrere)
+
+- Möglichkeit nun mehrere Instanzen des SDV zu öffnen, ohne dass sich die INI Dateien in die Quere kommen (Nur die erste   geöffnete Instanz, (Main) hat Schreibrechte auf die INI)
+
+- Möglichkeit, dem SDV als Kommendozeilenparameter einen Dateinamen mitzugeben, damit ist bei Doppelklicken auf eine Datei automatisches öffnen des Scriptes im SDV möglich
+
+- ein paar Änderungem in der internen Abarbeitung als Vorbereitung für die nächsten Steps
+
+- Selektionshandling verbessert (ist nun schneller und Bildaufbau ist ruhiger, sor allem bei Multiselektionen
+
+- Condition Inkonsistenz beseitigen verbessert (hat nun auch mein Produktivsystem glattgezogen)
+
+- SSH kommt nun mit CUxd Aus und braucht plink nun doch nicht mehr (auch im Hinblick auf irgendwann mal Linux)
+
+- Ein paar Methoden und Konstanten noch hinzugefügt
+
+- Editor hat Funktion bekommen für Block auskommentieren und Auskommentieren entfernen (fand ich nützlich für Programmeentwickeln zum Testen)
+
+- Masterparameter können direkt in den Editor als programmCode übernommen werden (Level 6) (unter Berücksichtung vom Gerät, dem Kanal und dem ValueType des Parameters)
+
+- aus einer Selektierten Singledestination kann der Editor unter Seleketiert mit dem Neuen Menüpunkt "Singledestination Zugriff" direkt den programmcode zum selektireen der SDest erzeugen, um verzögert um in einem eigenen Script zu bearbeiten
+
+- unter Methodenhilfe kann der Code zum Berechnen der "verzögert um" zeit direkt abgerufen werden.
+
+- Sichten für Systemvariablen nun endlich fertig ausprogrammiert
+
+- Favoritenansicht eingefügt Favoriten können aus der Listenübersicht übernommen werden, ein Doppelklick in der Favortienansicht auf ein Object führt zum Laden der Favoritenansicht in di Listenübersicht mit detaildarstellung des Selektierten Objectes (undo redo Browsing ist dabei berücksichtigt)
+
 
 ---------------------------------
 Changelog 3.07.11
