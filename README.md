@@ -68,7 +68,42 @@ Backups von Programmen
 
 Noch im Beta Status aber wird kontinuierlich erweitert
 
-Black im Mai 2019
+Black im Juli 2019
+
+
+---------------------------------
+Aktuelle Version V3.08.10
+-----------------------------
+
+- Bugfix : Backup von Räumen / Gewerken und Sysvars speicherte nicht als Datei. (behoben)
+
+- Neu: - SDV kann SingleConditons auch so bearbeiten, das indirekte Vergleiche möglich sind. (Patch für Konsistenzcheck fehlt aber noch !)
+
+- Editor und Listendarstellung Schrift und Grösse änderbar
+
+- History Datapoints hinzu
+
+- Sortieralgorithmus der Listendarstellung optimiert
+
+- Erkennen und Beseitigen von Conditionchannel und Destinationchannel Inkonsistenzen hinzugefügt
+
+- ein kleiner Bugfic bei einem Ausgabetext
+
+- Interne Modifikationen, so das für Scriptausführen nun nicht mehr ein interner Aufruf con CUXD gebraucht wird
+
+- Wahlmöglichkeit über INI Datei: SSH Funktionalität über pling oder über CUXD
+
+- Ein paar kleinere Fixes zur Verbereitung auf den Syntax checker
+
+- Menügesteuerter RTU Upate
+
+- Für Raspberrymatik muss die CUXD version Ungleich 2.3.0 sein !!!! aktuell heute 2.3.1
+
+- SynchoEdit eingefügt
+
+- Parallele Completitions eingefügt
+
+- Echtzeit Completition für definierte Variablen eingefügt
 
 
 ---------------------------------
