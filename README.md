@@ -68,7 +68,34 @@ Backups von Programmen
 
 Noch im Beta Status aber wird kontinuierlich erweitert
 
-Black im Juli 2019
+Black im August 2019
+
+
+---------------------------------
+Aktuelle Version V3.08.13
+---------------------------------
+
+- Verbesserung im Editor (Stringdelimiter angabe nicht mehr nötig)
+
+- Highlighter verbessert in Hinsicht auf String und Kommentarverarbeitung
+
+- Ansatz von Echtzeit Hilfe zu Methoden
+
+- Möglichkeit ungültiger Dateinamen durch ein Backup-Programme beseitigt
+
+- Diverse Kleinere Bugfixes
+
+- B-Hash Berechnung entfernt, EQ3 kriegt unter bestimmten Vorraussetzungen keine valide B-Ausgabe hin)
+
+- Filter für HUE und Lightify Geräte dem Package hinzugefügt
+
+- Möglichkeit 10 Eigener Methoedenhilfen mit Tastenkurzanwahl
+
+- Inspektor: Device mit allen Kanälen aus Raumlisten löschen
+
+- Inspektor: Device mit allen Kanälen aus Gewerkelisten löschen
+
+- Konsistenzcheck History DPS (Ungültige und verwaiste History DPs aufspüren und beseitigen)
 
 
 ---------------------------------
