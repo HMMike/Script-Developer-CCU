@@ -99,7 +99,7 @@ Aktuelle Version V3.08.13
 
 
 ---------------------------------
-Aktuelle Version V3.08.10
+Changelog V3.08.10
 -----------------------------
 
 - Bugfix : Backup von Räumen / Gewerken und Sysvars speicherte nicht als Datei. (behoben)
