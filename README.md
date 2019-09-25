@@ -1,6 +1,11 @@
 # Script-Developer-CCU
 
 
+Ab V3.09.XX:
+------------
+Ab V3.09.XX wird der SDV als 64bit targetsystem compiliert. Damit müssen auch die DLLs einer vorhandenen Installation gegen die des Packages ausgetauscht werden. die 32 bit Vorgängerversiopn V3.08.13 lasse ich erstmal noch Online. 
+
+
 Features:
 ----------
 Editor mit SyntaxHighlight und vervollständiger.
