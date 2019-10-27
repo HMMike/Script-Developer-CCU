@@ -70,14 +70,60 @@ Backups von Geräte/ Kanalnamen
 
 Backups von Programmen 
 
+Backup von Mastersets von Geräten
 
-Noch im Beta Status aber wird kontinuierlich erweitert
+Backup von Linksets von Geräten
 
-Black im August 2019
+Backup von WEBUI Einträgenvon Geräten (Kanalnamen, Räume, gewerke, Favoriten, verwendete Frogramme)
+
+
+
+Black im oktober 2019
 
 
 ---------------------------------
-Aktuelle Version V3.08.13
+Aktuelle Version V3.09.04
+---------------------------------
+
+Mittlerweile 64 Bit Compiliert (verwendete RAD: 2.0.4)
+
+Diverse kleinere Bugfixes
+
+Auflösen von Linksets möglich
+
+Ändern von Namen und Beschreibungvon Linksets
+
+Backup eines Linkssets 
+
+Parameter im Linkset können markiert werden und automatischer Editorcodeerzeugt werden
+
+Editor kann mit Human friendly JSON umgehen
+
+Auflösen von Direktverbindungen selektierte Geräte
+
+Sortieren derDirektverbindungen nach Sender, Empfänger
+
+Finden Gleichartiger Geräte
+
+Echtzeithilfe eingefügt
+
+Automatische Codegenerierung für Datenpunkte (Vollsymbolischer Zugriff)
+
+Konfigurierbarer Threatkill Timeout
+
+Für die jeweiligen CCUs separates BackupDir eingefügt
+
+Restore Möglichkeit, wenn ein Device gelöscht wurde, um sämtliche Punkte der WEBUI wieder zu rekonstruieren
+
+Linkset Auflösen von Level6 auf Level 5 herabgesetzt
+
+Master und Linkset Level von 6 auf 5 heruntergesetzt
+
+Logmöglichkeit für Backup programme eingeführt
+
+
+---------------------------------
+Changelog V3.08.13
 ---------------------------------
 
 - Verbesserung im Editor (Stringdelimiter angabe nicht mehr nötig)
