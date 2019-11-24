@@ -78,7 +78,36 @@ Backup von WEBUI Einträgenvon Geräten (Kanalnamen, Räume, gewerke, Favoriten,
 
 
 
-Black im oktober 2019
+Black im November 2019
+
+
+---------------------------------
+Aktuelle Version V3.09.05A  (64bit Version)
+---------------------------------
+
+Ein paar kleinere Bugfixes
+
+Programmkonsistenstest verschärft (Zeitmodule und Scripte und geisterChannel verweise)
+
+Backup von Räumen Gewerken Fix eingeführt (Enumtypes sind durchgegangen)
+
+Korrekturlauf für enums eingeführt, die diese Bezüge reparieren können
+
+Fix bzw ungenauigkeit bei BackUp Linkset für ein gerät beseitigt
+
+Aus Mastersets / Linkssets lassen  sich Werte markieren  und zum Auslesen der entsprechende Scriptcode generieren
+
+Korrekturlauf CheckObjects (Richtiger Verweis und korrekter Gegenverweis)
+
+Möglichkeit nach Name () oder Adress () eines Gerätes/Channel  in Scripten zu suchen
+
+Möglichkeit in einem Programm die verwendeten Systemvariablen zu suchen
+
+CheckDevices gegen XMLRPC Scnittstellenprozess eingeführt
+
+Löschmöglichkeit von Devices nun auch xmlroc.DeleteDevices ()
+
+Backup Device und Channelnamen nun über  die Selektieren Devices, nicht mehr über alle.
 
 
 ---------------------------------
