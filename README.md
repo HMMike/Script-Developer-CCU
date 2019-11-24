@@ -111,7 +111,7 @@ Backup Device und Channelnamen nun über  die Selektieren Devices, nicht mehr ü
 
 
 ---------------------------------
-Aktuelle Version V3.09.04
+Changelog V3.09.04
 ---------------------------------
 
 Mittlerweile 64 Bit Compiliert (verwendete RAD: 2.0.4)
