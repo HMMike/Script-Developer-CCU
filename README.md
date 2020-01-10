@@ -14,6 +14,7 @@
 
 
 
+
 Ab V3.09.XX:
 ------------
 Ab V3.09.XX wird der SDV als 64bit targetsystem compiliert. Damit müssen auch die DLLs einer vorhandenen Installation gegen die des Packages ausgetauscht werden. die 32 bit Vorgängerversiopn V3.08.13 lasse ich erstmal noch Online. 
@@ -90,13 +91,38 @@ Backup von Linksets von Geräten
 Backup von WEBUI Einträgenvon Geräten (Kanalnamen, Räume, gewerke, Favoriten, verwendete Frogramme)
 
 
+Kopieren von Geräten
+--------------------
+Kopie des Masterparametersatzes von einem Gerät in ein anderes (Auch HMIP)
 
-Black im November 2019
+Kopie der Wochenprofile innerhalb von HmIP Aktoren
+
+Kopie von Heizprofilen zwischen Hmclassic,HmIP geräten und virtuellen Heizgruppen
+
+
+
+
+Black im Januar 2020
 
 
 ---------------------------------
-Aktuelle Version V3.09.05A  (64bit Version)
+Aktuelle Version V3.10.02  (64bit Version)
 ---------------------------------
+
+
+Ein paar kleinere Bugfixes
+
+Gerätekopien Mastersets zwischen gleichen und ähnlichen Devices
+
+Gerätekopien IP-Wochenprofile auch zwischen unterschiedlichen IP Geräten
+
+Gerätekopien Heizprofile übergreifend zwischen HM, HMIP und Heigruppen möglich
+
+
+---------------------------------
+Changelog V3.09.05  (64bit Version)
+---------------------------------
+
 
 Ein paar kleinere Bugfixes
 
