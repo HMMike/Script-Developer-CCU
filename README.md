@@ -1,4 +1,5 @@
 # Script-Developer-CCU
+momentan überlege ich mir ernsthaft die sinnhaftigkeit weiterer Veröffentlichungen
 
 
 ## Objektinspektor
