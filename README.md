@@ -1,5 +1,5 @@
 # Script-Developer-CCU
-02.02.2020 momentan überlege ich mir ernsthaft die Sinnhaftigkeit weiterer Veröffentlichungen. Das Package ist erstmal entfernt. Wenn wird die Nachfolgeversion mit neuen Schlüsselpaaren kommen.
+02.02.2020 momentan überlege ich mir ernsthaft die Sinnhaftigkeit weiterer Veröffentlichungen. Das Package ist erstmal entfernt. Wenn, dann wird die Nachfolgeversion mit neuen Schlüsselpaaren kommen.
 
 
 ## Objektinspektor
