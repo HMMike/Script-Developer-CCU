@@ -12,7 +12,7 @@
 ![TITLE](https://user-images.githubusercontent.com/42892466/72174939-2df35e80-33db-11ea-9295-08b4ef87d9f0.jpg)
 
 
-Bis auf weiteres ist hier pas Package weg und bis auf weiteres vergebe ich auch keine neuen Keys mehr.
+Bis auf weiteres ist hier das Package weg und bis auf weiteres vergebe ich auch keine neuen Keys mehr.
 
 
 
