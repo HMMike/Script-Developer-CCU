@@ -104,11 +104,37 @@ Kopie von Heizprofilen zwischen Hmclassic,HmIP geräten und virtuellen Heizgrupp
 
 
 
-Black im Januar 2020
+Black im Mai 2020
 
 
 ---------------------------------
-Aktuelle Version V3.10.02  (64bit Version)
+Aktuelle Version V3.11.05C  (64bit Version)
+---------------------------------
+
+ein paar Bugfixes
+
+aufgrund des zweiten Bugfix nun den erforderlichen Lizenzlevel für das überschreiben von eigentlich nicht überschreibbaren Datenpunkten von 6 auf 5 gesenkt. Damit erfüll ich den in mehreren PNs geäußerten Wunsch, dieses auch für tiefere Level freizugeben, da dieses eine schöne Debug und Testmöglichkeit für Programme ist.
+
+Einige weitere Methoden in der Detailansicht änderbar gemacht
+
+Hint Hilfe im Editor für weitere methoden erweitert
+
+Unterbau vorbereitet für HmIp Gerätekopien (Linksets)
+Metadaten nun im Inspektor veränderbar ab level 6. Man sollte hierbei aber ganz genau wissen was man tut !!
+- im Editor vervollständiger Funktion hinzugefügt für
+- Ctrl - Alt - S : Systemvariablen
+- Ctrl - Alt -G : Gewerke
+- Ctrl - Alt - R : Räume
+- Ctrl - Alt - D : Devices
+- Ctrl - ALt -P : Programme
+
+Die einzufügende Objektliste wird in Echtzeit von der CCU geholt, aufbereitet und im Editor Auswahlmenü angeboten
+
+Info Hints in den Listenansichten des Inspektors eingeführt
+
+
+---------------------------------
+Changelog Version V3.10.02  (64bit Version)
 ---------------------------------
 
 
