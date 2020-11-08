@@ -12,10 +12,6 @@
 ![TITLE](https://user-images.githubusercontent.com/42892466/72174939-2df35e80-33db-11ea-9295-08b4ef87d9f0.jpg)
 
 
-Ab V3.09.XX:
-------------
-Ab V3.09.XX wird der SDV als 64bit targetsystem compiliert. Damit müssen auch die DLLs einer vorhandenen Installation gegen die des Packages ausgetauscht werden. die 32 bit Vorgängerversiopn V3.08.13 lasse ich erstmal noch Online. 
-
 
 Features:
 ----------
@@ -31,7 +27,11 @@ Ansicht der verwendeten Scriptvariablen
 
 Ansicht des Syslogs
 
-Mit der Version 3.07.qq kennt der HighLighter und der Vervollständiger 620 Methoden und Konstanten
+Die Methodendankenbank kennt alle vorhandenen Methoden der regaHSS
+
+Berücksichtung der Besonderheiten Des rega Parsers beim Highlighting
+
+verbesserter Code-Completioner
 
 Markup im Editor 
 
