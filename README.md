@@ -1,3 +1,5 @@
+# Werbefreie Auszeit bis auf weiteres...
+
 # Script-Developer-CCU
 
 
