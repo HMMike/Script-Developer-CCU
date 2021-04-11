@@ -1,6 +1,6 @@
-# Werbefreie Auszeit bis auf weiteres...
+# The Show must Go On...
 
-# Script-Developer-CCU
+# Script-Developer-CCU V4.06.12A
 
 
 ## Objektinspektor
@@ -101,33 +101,36 @@ Kopie von Heizprofilen zwischen Hmclassic,HmIP geräten und virtuellen Heizgrupp
 
 
 
-Black im Mai 2020
+Black im April 2021
 
 
 ---------------------------------
-Aktuelle Version V3.11.05C  (64bit Version)
+Aktuelle Version V4.06.12A  (64bit Version)
 ---------------------------------
 
-ein paar Bugfixes
+# Features:
+Editor mit SyntaxHighlight und vervollständiger.
+Scripte auf PC abspeichern und laden
+Script ausführen
+Ansicht der Ausgaben via WriteLine
+Ansicht der verwendeten Scriptvariablen
+Ansicht des Syslogs
+Mit der Version 4.02.07 kennt der HighLighter und der Vervollständiger alle Methoden und Konstanten
+volle Unterstützung der Rega Syntax (Kommentare, Strings, sonstige Gemeinheiten
+Echtzeit Syntaxcheck (Deklaraton von variablen, Klammerstacks, übliche Syntax Fehler)
+Editor MarkUp Funktionalität
+Finden in Scripten von Systemvariablen, Geräten, Kanälen, Räumen und Gewerken nach Namen
+Finden in Scripten von Kanälen und Geräten nach Seriennummer (Address)
+Suchen von Device bzw dessen Kanälen / Datenpunkten geziehlt nach Trigger, Nur prüfen, Bedingungsteil oder Aktionsteil in WebUI Programmen
+Codebasierte Methodendatenbank
+vollständige Regasyntaxunterstützung des Highlighters
+Echtzeit Systaxprüfung im Editor (Warn und fehler)
+Überarbeites Code Completion
+Komfortables Auto-Complete (Einfügen completter Code Schnipsel)
 
-aufgrund des zweiten Bugfix nun den erforderlichen Lizenzlevel für das überschreiben von eigentlich nicht überschreibbaren Datenpunkten von 6 auf 5 gesenkt. Damit erfüll ich den in mehreren PNs geäußerten Wunsch, dieses auch für tiefere Level freizugeben, da dieses eine schöne Debug und Testmöglichkeit für Programme ist.
-
-Einige weitere Methoden in der Detailansicht änderbar gemacht
-
-Hint Hilfe im Editor für weitere methoden erweitert
-
-Unterbau vorbereitet für HmIp Gerätekopien (Linksets)
-Metadaten nun im Inspektor veränderbar ab level 6. Man sollte hierbei aber ganz genau wissen was man tut !!
-- im Editor vervollständiger Funktion hinzugefügt für
-- Ctrl - Alt - S : Systemvariablen
-- Ctrl - Alt -G : Gewerke
-- Ctrl - Alt - R : Räume
-- Ctrl - Alt - D : Devices
-- Ctrl - ALt -P : Programme
-
-Die einzufügende Objektliste wird in Echtzeit von der CCU geholt, aufbereitet und im Editor Auswahlmenü angeboten
-
-Info Hints in den Listenansichten des Inspektors eingeführt
+# Scriptdoku
+Ab der version V4.05.01 verfügt der SDV über einer codebasierte Dakenbank, wo alle Regamethoden und Konstanten vorhanden sind, sowie die mri bekannten Deklaratonen und Aufruf/ Rückgabeparameter
+Ab Level 6 kann liegt dieser Menüpunkt in dem Hauptreiter
 
 
 ---------------------------------
