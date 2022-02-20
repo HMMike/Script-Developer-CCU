@@ -37,6 +37,10 @@ verbesserter Code-Completioner
 
 Markup im Editor 
 
+Interligente Methodenvorhersage unter Berücksichtigung des Scriptes
+
+Menügeführte Vollsymbolische Erzeugung von Programmcode bei AUswahl von Rega Objekten
+
 Suchen von Systemvariablen, Geräten, Channels, Räumen und Gewerken in Scripten nach Namen
 
 Suchen von Channels und Devices nach Seriennummern in Scripten
@@ -72,6 +76,8 @@ Komplettes Zerlegen von Programmen in Rules, Conditions, SingleConditions, Desti
 
 Suchen in Scripten (Namen oder freier Text, auch regular expressions
 
+Bearbeiten von Master und Linksets
+
 
 Backup Restore
 ---------------
@@ -101,7 +107,7 @@ Kopie von Heizprofilen zwischen Hmclassic,HmIP geräten und virtuellen Heizgrupp
 
 
 
-Black im April 2021
+Black im Februar 2022
 
 
 ---------------------------------
