@@ -1,8 +1,8 @@
 # The Show must Go On...
 
-# Script-Developer-CCU V4.10.01A
+# Script-Developer-CCU V5.03.01D
 
-Die letzte 4er Version, die 5er Version steht schon in den Startlöchern
+WIe versprochen die neue 5er Version
 
 
 ## Objektinspektor
@@ -48,6 +48,25 @@ Suchen von Systemvariablen, Geräten, Channels, Räumen und Gewerken in Scripten
 Suchen von Channels und Devices nach Seriennummern in Scripten
 
 Programme Testen Option (Systaxcheck)
+
+
+Programmeditor
+---------------
+Neu in der V5. Damit ist es möglich, WebUI Programme zu erstellen und zu beabeiten.
+
+Es sind Feature integriert, die die WebUI nicht beherrscht und aufgrund ihrer Struktur
+
+sehr wahrscheinlich auch nicht beherrschen wird
+
+- Kommentare zu jedem Programmobjekt
+
+- MainConditions
+
+- Freies Verschieben von jedem Programmbaustein an andere erlaubte Stellen
+
+- Kopieren aus anderen Programmteilen
+
+- Viel mehr dazu steht im Kapitel 11 der V5-Anleitung 
 
 
 Objectinspektor
